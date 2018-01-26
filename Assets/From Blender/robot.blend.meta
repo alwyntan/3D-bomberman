@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 29004b714cb4c974383fd78c3553d60f
+timeCreated: 1459169590
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: ArmTarget_L
+    100006: ArmTarget_R
+    100008: Clavical_L
+    100010: Clavical_R
+    100012: Cube
+    100014: Cube_001
+    100016: Cylinder
+    100018: Cylinder_001
+    100020: Cylinder_002
+    100022: Cylinder_003
+    100024: Cylinder_004
+    100026: Cylinder_004_MeshPart0
+    100028: Cylinder_004_MeshPart1
+    100030: Cylinder_004_MeshPart2
+    100032: Cylinder_005
+    100034: Cylinder_006
+    100036: Cylinder_007
+    100038: Cylinder_008
+    100040: Cylinder_009
+    100042: Cylinder_010
+    100044: Cylinder_011
+    100046: ElbowControl_L
+    100048: ElbowControl_R
+    100050: Foot_L
+    100052: Foot_R
+    100054: ForeArm_L
+    100056: ForeArm_R
+    100058: Hand_L
+    100060: Hand_R
+    100062: Head
+    100064: Hips
+    100066: KneeControl_L
+    100068: KneeControl_R
+    100070: LegAnchor_L
+    100072: LegAnchor_R
+    100074: LegTarget_L
+    100076: LegTarget_R
+    100078: LowerLeg_L
+    100080: LowerLeg_R
+    100082: Plane
+    100084: Root
+    100086: Torso
+    100088: UpperArm_L
+    100090: UpperArm_R
+    100092: UpperLeg_L
+    100094: UpperLeg_R
+    400000: //RootNode
+    400002: Armature
+    400004: ArmTarget_L
+    400006: ArmTarget_R
+    400008: Clavical_L
+    400010: Clavical_R
+    400012: Cube
+    400014: Cube_001
+    400016: Cylinder
+    400018: Cylinder_001
+    400020: Cylinder_002
+    400022: Cylinder_003
+    400024: Cylinder_004
+    400026: Cylinder_004_MeshPart0
+    400028: Cylinder_004_MeshPart1
+    400030: Cylinder_004_MeshPart2
+    400032: Cylinder_005
+    400034: Cylinder_006
+    400036: Cylinder_007
+    400038: Cylinder_008
+    400040: Cylinder_009
+    400042: Cylinder_010
+    400044: Cylinder_011
+    400046: ElbowControl_L
+    400048: ElbowControl_R
+    400050: Foot_L
+    400052: Foot_R
+    400054: ForeArm_L
+    400056: ForeArm_R
+    400058: Hand_L
+    400060: Hand_R
+    400062: Head
+    400064: Hips
+    400066: KneeControl_L
+    400068: KneeControl_R
+    400070: LegAnchor_L
+    400072: LegAnchor_R
+    400074: LegTarget_L
+    400076: LegTarget_R
+    400078: LowerLeg_L
+    400080: LowerLeg_R
+    400082: Plane
+    400084: Root
+    400086: Torso
+    400088: UpperArm_L
+    400090: UpperArm_R
+    400092: UpperLeg_L
+    400094: UpperLeg_R
+    2300000: //RootNode
+    2300002: Cube_001
+    2300004: Cylinder_005
+    2300006: Cylinder_009
+    2300008: Cylinder_010
+    2300010: Plane
+    3300000: //RootNode
+    3300002: Cube_001
+    3300004: Cylinder_005
+    3300006: Cylinder_009
+    3300008: Cylinder_010
+    3300010: Plane
+    4300000: Cylinder
+    4300002: Cylinder_011
+    4300004: Cylinder_010
+    4300006: Cylinder_009
+    4300008: Cylinder_002
+    4300010: Cylinder_007
+    4300012: Cylinder_004_MeshPart0
+    4300014: Cylinder_004_MeshPart1
+    4300016: Cylinder_004_MeshPart2
+    4300018: Cylinder_006
+    4300020: Cylinder_003
+    4300022: Cylinder_001
+    4300024: Cylinder_005
+    4300026: Cylinder_008
+    4300028: Cube
+    4300030: Plane
+    4300032: Cube_001
+    6400000: Cube_001
+    6400002: Plane
+    7400000: Walk
+    7400002: WalkCycle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: Cylinder
+    13700004: Cylinder_001
+    13700006: Cylinder_002
+    13700008: Cylinder_003
+    13700010: Cylinder_004_MeshPart0
+    13700012: Cylinder_004_MeshPart1
+    13700014: Cylinder_004_MeshPart2
+    13700016: Cylinder_006
+    13700018: Cylinder_007
+    13700020: Cylinder_008
+    13700022: Cylinder_011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ArmTarget_L
+        weight: 1
+      - path: Armature/ArmTarget_R
+        weight: 1
+      - path: Armature/ElbowControl_L
+        weight: 1
+      - path: Armature/ElbowControl_R
+        weight: 1
+      - path: Armature/KneeControl_L
+        weight: 1
+      - path: Armature/KneeControl_R
+        weight: 1
+      - path: Armature/LegTarget_L
+        weight: 1
+      - path: Armature/LegTarget_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_L
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_L/UpperLeg_L
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_L/UpperLeg_L/LowerLeg_L
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_L/UpperLeg_L/LowerLeg_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_R
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_R/UpperLeg_R
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_R/UpperLeg_R/LowerLeg_R
+        weight: 1
+      - path: Armature/Root/Hips/LegAnchor_R/UpperLeg_R/LowerLeg_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Hips/Torso
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_L
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_L/UpperArm_L
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_L/UpperArm_L/ForeArm_L
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_L/UpperArm_L/ForeArm_L/Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_R
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_R/UpperArm_R
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_R/UpperArm_R/ForeArm_R
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Clavical_R/UpperArm_R/ForeArm_R/Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Torso/Head
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: Cylinder_004
+        weight: 1
+      - path: Cylinder_004/Cylinder_004_MeshPart0
+        weight: 1
+      - path: Cylinder_004/Cylinder_004_MeshPart1
+        weight: 1
+      - path: Cylinder_004/Cylinder_004_MeshPart2
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_006
+        weight: 1
+      - path: Cylinder_007
+        weight: 1
+      - path: Cylinder_008
+        weight: 1
+      - path: Cylinder_009
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

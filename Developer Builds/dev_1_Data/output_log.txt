@@ -1,0 +1,32 @@
+Mono path[0] = 'C:/Users/alwyn/Documents/Unity Projects/3D bomberman/Developer Builds/dev_1_Data/Managed'
+Mono path[1] = 'C:/Users/alwyn/Documents/Unity Projects/3D bomberman/Developer Builds/dev_1_Data/Mono'
+Mono config path = 'C:/Users/alwyn/Documents/Unity Projects/3D bomberman/Developer Builds/dev_1_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/alwyn/Documents/Unity Projects/3D bomberman/Developer Builds/dev_1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55181
+Multi-casting "[IP] 10.0.0.3 [Port] 55181 [Flags] 2 [Guid] 2595243060 [EditorId] 3995701919 [Version] 1048832 [Id] WindowsPlayer(coconut) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.0.0.3:55181]
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     4204 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alwyn\Documents\Unity Projects\3D bomberman\Developer Builds\dev_1_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
